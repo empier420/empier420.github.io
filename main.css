@@ -7,5 +7,15 @@ ul{
   float: right;
   flex-wrap: wrap;
   margin: 10px;
-  color: brown;
+  border: 5px solid black;
+  background: linear-gradient(blue, red); 
+}
+
+p{
+  font-family: bookman,'bookman heading', serif;
+  font-size: 30px;
+  flex-wrap: wrap;
+  justify-content: center;
+  color: blue;
+  border: 5px solid green;
 }
