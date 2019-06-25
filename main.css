@@ -3,3 +3,9 @@
   font-size:5rem;
   float:right;
 }
+ul{
+  float: right;
+  flex-wrap: wrap;
+  margin: 10px;
+  color: brown;
+}
