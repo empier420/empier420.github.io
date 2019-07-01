@@ -18,4 +18,10 @@ table{
   justify-content: center;
   color: blue;
   border: 5px solid green;
+  background-image: url("https://www.freeimages.com/photo/digital-world-1241888");
+  background-size: cover;
+}
+h2{
+  color:green;
+  border: 2px solid blue;
 }
