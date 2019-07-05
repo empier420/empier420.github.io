@@ -13,26 +13,28 @@ ul{
 
 table{
   font-family: bookman,'bookman heading', serif;
-  font-size: 30px;
-  flex-wrap: wrap;
+  font-size:30px;
+  flex-wrap:wrap;
   justify-content: center;
-  color: blue;
-  border: 5px solid green;
-  background-image: url("https://www.freeimages.com/photo/digital-world-1241888");
-  background-size: cover;
+  color:blue;
+  border:5px solid green;
+  background-image:url("https://i.imgur.com/yfTAqXq.jpg");
+  background-size:cover;
 }
 h2{
   color:green;
-  border: 2px solid blue;
+  border:2px solid blue;
 }
 .image1{
   border:10 px solid yellow;
-  margin 20px;
-  color: red;
+  margin:20px;
+  color:red;
 }
   .font1{
-    justify-content: center;
-    font-size: 50px;
-    color: silver;
-    border: 20px solid yellow;
+    justify-content:center;
+    font-size:50px;
+    color:silver;
+    border:20px solid yellow;
+    display:flex;
+    flex-wrap:wrap;
 }
