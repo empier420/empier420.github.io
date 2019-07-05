@@ -30,4 +30,9 @@ h2{
   margin 20px;
   color: red;
 }
-  
+  .font1{
+    justify-content: center;
+    font-size: 50px;
+    color: silver;
+    border: 20px solid yellow;
+}
