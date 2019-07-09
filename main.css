@@ -21,6 +21,11 @@ table{
   background-image:url("https://i.imgur.com/yfTAqXq.jpg");
   background-size:cover;
 }
+#title2{
+  background: linear-gradient(silver, gold);
+  font-size:80px;
+  color: violet;
+}
 h2{
   color:green;
   border:2px solid blue;
