@@ -224,10 +224,6 @@ startCount();
 A function for loop code using an if else check. 
 startCount() outside of loop with no value means they cancel each other out and all values are outputted inside the {}. 
 
-Internet Settings
-How to find internet data: use (CMD prompt) - in window type ipconfig,  As default gateway code is the web search IP address
-https://support.microsoft.com/en-us/help/10741/windows-fix-network-connection-issues fix internet problems by command prompt 
-
 
 
 
