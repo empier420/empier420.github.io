@@ -516,3 +516,15 @@ justify-content: center; centers the elements
 .title1{…………………..} used for selecting a div instead of an <h1>……………</h1> parrent
 Or use h1 for <h1>…………</h1>
 
+Values:
+//Y=(X^2/2)-(0.5*X)/(X))=ru. > 2
+let x=0;
+for(x=0; X<100; x++1){
+function(x)y{
+	Y=(X^2/2)-(0.5*X)/(X))
+};
+console.log(x);
+};
+//if x is not x <=2 then value exists.
+//if x is x >=2 then value is off target.
+//find value.
