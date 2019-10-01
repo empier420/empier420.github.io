@@ -60,4 +60,20 @@ Strength: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
  
 God weapons: Either priceless staffs that cannot be sold or bought. Or Weapons and armor used only by the god’s themselves and their celestial armies. Not only can they not be made by mortals. Their rarity is legendary and their value astronomical.
 Only the most powerful can even wield such weapons, in which they themselves are designed to destroy the very creations made by the gods. 
-Strength: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   
+Strength: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+
+
+
+Magical Material: Magic ology increasing value going down
+Wizard: material from the second age. Worn by the common mortal, and valued high in the 5th age.
+Mana:
++++++
+Mystic: A series of elaborate robes worn by the leaders of the second age. The have prominent and dominating outfits, so that they could command their subordinates. 
+Mana:
+++++++++++++
+Acestial/ elder: A series of fancy and peaceful looking robes. These were worn by the people of the 1st age. They are not made during war like the others. 
+Mana:
+++++++++++++++++++++++++
+
+
+
