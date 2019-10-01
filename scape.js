@@ -71,7 +71,7 @@ Mana:
 Mystic: A series of elaborate robes worn by the leaders of the second age. The have prominent and dominating outfits, so that they could command their subordinates. 
 Mana:
 ++++++++++++
-Acestial/ elder: A series of fancy and peaceful looking robes. These were worn by the people of the 1st age. They are not made during war like the others. 
+Ancestral/ elder: A series of fancy and peaceful looking robes. These were worn by the people of the 1st age. They are not made during war like the others. 
 Mana:
 ++++++++++++++++++++++++
 
