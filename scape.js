@@ -75,5 +75,26 @@ Ancestral/ elder: A series of fancy and peaceful looking robes. These were worn 
 Mana:
 ++++++++++++++++++++++++
 
+Wood Material: Tree Ology increasing going down
+ Evergreen/common tree: Found commonly all over the map. Except for desserts. The tree has been around only in the 5th age, and is used from construction to weaponry. 
+Resilience: 
++++++
+Oak/dense wooded areas: From the 4th age originally. This somewhat uncommon wood is found in dense wooded areas. The tree was spawned when humans stopped using trees as much after the god wars, because most were nomadic tribes. However going into the 5th age, this tree was used up by rising cities when they found its superior resilience to the common tree, which was sickly compared to the Oak and dense wooded areas. 
+Resilience:
++++++++++++++++
+   Willow/ Teak/ Maple/ very dense: These trees are originally from the 3rd age. Spawned out of the devotion to the gods for elemental resources. Guthix (god of nature), spawned the Willow tree for a watery resource, Teak for a resource in humid lands and Maple for a very cold and dry resource.
+Resilience:
+++++++++++++++++++++++++++++++++++
+Yew / Mahogany/ Arctic Pine: From the beginning of the 3rd age immediately after the god wars ended. Guthix made the three woods in order to strive peace between the creations. Yew for wooded areas, Mahogany for hot and humid areas and Arctic Pine for cold regions. However war soon started up again, so Guthix spawned the much lesser trees instead Willow, Teak and Maple. 
+Resilience:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+Magic/ Red Wood: Spawned in the 1st age by Guthix as a prized wood. Most of the trees were burned in the 2nd age by the god wars, and are only kept alive by magical preserved areas around the map. Much lesser trees were spawned by Guthix in the 3rd, 4th and 5th age.  
+Resilience:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+
+
+
+
+
 
 
