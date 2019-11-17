@@ -92,6 +92,41 @@ Magic/ Red Wood: Spawned in the 1st age by Guthix as a prized wood. Most of the 
 Resilience:
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
 
+Crafting: Runes
+All from the essence, from the 1st age by Guthix. 
+
+
+Elemental: 
+Air: The air element is used to describe unpredictable behavior. It’s relatively weak compared to the other elemental runes. The rune is the essence of speed, change, emotional and passive.
+Water: The Water element describes powerful determination. It’s much stronger then air. The rune is the essence of power, logic, steadiness and order.
+Earth: The Earth element describes Strength. It’s much stonger than water. The Rune is the essence of strength, reality, relationships and wit.
+Fire: The Fire Element describes Force: It’s much stronger than Earth. The rune is the essence of power, aggression, rage and piety.   
+
+
+Offensive:
+Mind: The mind rune is the essence of a human mind (or a human spirit). Every human has a unique spirit and stone holds the essence of the spirit. The human mind is a celestial part of a human with the human brain being moral and down to Earth. A mind rune stone can be combined with an elemental stone to cause a spiritual force on the element.
+1 mind rune unit 
+Chaos: The chaos rune builds off of the mind rune. Chaos is the essence of multiple minds infused into one stone. Chaos is then very unpredictable and violent. The result is a very angry spiritual force that can be combined with an elemental rune.  
+10 mru – 1 cru
+Death: The death rune builds off of the chaos rune. It’s from multiple chaos stones infusing into one death rune stone. The death rune then becomes the essence of dread and overwhelming chaos. This is a very powerful force and is deadly when combined with an elemental rune stone.
+100 mru -10 cru- 1 dru
+Blood: The blood rune is from infusing multiple death runes. It’s a very, very powerful rune stone. It’s the essence of life itself, thus becoming the force to end it as well. At this point 1,000 human spirits make up this rune stone. It becomes a demolishing force when combined with an elemental rune stone. 
+1,000 mru - 100 cru-  10 dru- 1 bru 
+Wrath: The wrath rune is from infusing multiple blood runes. It’s the max charge of any rune stone holding thousands of human spirits in it. Only a master can use such a stone. It is the essence of a spiritual army. There is very little defense for any being when up against a wrath rune stone. The wrath rune stone when combined with an elemental rune stone becomes an unstoppable force of spiritual power. 
+ 1 wru- 10 bru- 100 dru- 1,000 cru- 10,000 mru
+
+ 
+Defensive:
+Body: Body rune stone is the capture of a human brain being down the Earth where the human mind is spiritual. The body rune is the essence of logic. It can be combined with other rune stones to manipulate that person. 
+ 1 body rune unit
+Cosmic: From infusing multiple body runes. It becomes the essence of material empowerment. The cosmic rune then has the power to increase the value and function on an object. 
+10 bru – 1 cru
+Nature: The nature rune stone is from infusing multiple cosmic rune stones. This stone when combined with others can atomize it to gold or a freezer.
+100 bru – 10 cru – 1 nru
+Law: The law rune stone is from the infusing of multiple nature rune stones. This counts for a thousand body rune stones. The result is the epitome of human logic and reasoning. When combined with other rune stones Law can alter time and reality.
+1,000 bru – 100 cru – 10 nru – 1 lru  
+Soul: The Soul rune stone is from infusing multiple law rune stones. It’s the max charge of a rune stone being infused by human logic and reasoning. It becomes the essence of human ability. When combined with other rune stones it can change time for others, heal, reaminate and more.
+10,000 bru – 1,000 cru – 100 nru – 10 lru – 1 sru  
 
 
 
